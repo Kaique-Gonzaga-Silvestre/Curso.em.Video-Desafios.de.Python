@@ -1,4 +1,4 @@
-# Crie um rpograma que leia duas notas de um aluno e calcule sua média, mostrando no final, de acordo com a média atingida :
+# Crie um programa que leia duas notas de um aluno e calcule sua média, mostrando no final, de acordo com a média atingida :
 # - Abaixo de 5 reprovado 
 # - entre 5 e 6.9 recuperação 
 # media 7 ou superior aprovado 
